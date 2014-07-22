@@ -23,6 +23,5 @@ Things you may want to cover:
 
 * ...
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+However, I have a lot of changes to the default Ruby on Rails Framework.
+This is a simple Blog tutorial. You can reach me on ladokunbolaji@gmail.com
